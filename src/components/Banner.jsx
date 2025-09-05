@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa6";
 
 const Banner = () => {
   return (
-    <section className="bg-bgprimary text-secondary py-20 px-4 md:px-8">
+    <section className="bg-bgprimary text-secondary pb-20 pt-2 px-4 md:px-8">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start gap-10">
         {/* Left Side Content */}
         <div className="flex-1 flex flex-col gap-2">
